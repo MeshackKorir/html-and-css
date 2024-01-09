@@ -1,7 +1,7 @@
-/* .background {
-    background-color: yellow;
-    height: 100vh;
-} */
+.background {
+    justify-content: center;
+    display: flex;
+}
 
 body {
     background-color: yellow;
